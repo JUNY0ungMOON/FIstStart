@@ -1,0 +1,2 @@
+# FIstStart
+just start java
